@@ -1,0 +1,6 @@
+# Requirements for experiment1
+
+numpy
+pandas
+matplotlib
+scikit-learn
