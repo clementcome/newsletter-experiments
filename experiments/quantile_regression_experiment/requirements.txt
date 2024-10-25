@@ -1,0 +1,7 @@
+# Requirements for quantile_regression_experiment
+
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
